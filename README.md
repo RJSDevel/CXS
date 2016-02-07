@@ -1,9 +1,9 @@
 # cxs
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure scoring expert system
 
 ## Usage
 
-FIXME
+WTF???
 
 ## License
